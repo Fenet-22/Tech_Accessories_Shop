@@ -1,0 +1,1 @@
+<a href="cart.php">Cart (<?= count($_SESSION['cart'] ?? []); ?>)</a>
